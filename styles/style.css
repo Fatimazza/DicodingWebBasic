@@ -6,3 +6,21 @@ body {
 h1, h2 {
    color: #073042; 
 }
+
+h1 {
+    font-size: 250%;
+}
+
+p {
+    line-height: 1.8em;
+}
+
+.center {
+    text-align: center
+}
+
+.android-compose-camp {
+    background: #d7effe url("../image/compose-camp-header.png") no-repeat bottom / cover;
+    height:500px;
+    padding-top: 15px;
+}
