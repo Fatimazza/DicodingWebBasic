@@ -3,6 +3,22 @@ body {
     font-size: 16px;
  }
 
+nav {
+    background-color:#073042;
+    padding: 5px;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #d7effe;
+    text-decoration: none;
+}
+
 h1, h2 {
    color: #073042; 
 }
