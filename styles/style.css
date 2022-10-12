@@ -45,3 +45,15 @@ p {
     height:500px;
     padding-top: 90px;
 }
+
+footer {
+    background: #073042 url("../image/compose-camp-footer.png") no-repeat bottom / contain;
+    height: 300px;
+    padding-top: 5px;
+    text-align: center;
+}
+
+footer p {
+    color: #d7effe;
+    background-color: #073042;
+}
