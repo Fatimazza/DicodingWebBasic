@@ -46,6 +46,14 @@ p {
     padding-top: 90px;
 }
 
+.round-img {
+    border-radius: 50%;
+    border: 8px solid #4285f4;
+    display: block;
+    margin: 0 auto;
+    max-width: 165px;
+}
+
 footer {
     background: #073042 bottom / contain no-repeat url("../image/compose-camp-footer.png");
     height: 300px;
