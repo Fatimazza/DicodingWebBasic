@@ -1,11 +1,15 @@
 body {
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 16px;
+    margin: auto 0;
 }
 
 nav {
+    position: fixed;
     background-color:#073042;
     padding: 5px;
+    top: 0;
+    width: 100%;
 }
 
 nav li {
@@ -39,5 +43,5 @@ p {
 .android-compose-camp {
     background: #d7effe url("../image/compose-camp-header.png") no-repeat bottom / cover;
     height:500px;
-    padding-top: 15px;
+    padding-top: 90px;
 }
