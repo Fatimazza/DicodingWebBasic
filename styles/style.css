@@ -41,13 +41,13 @@ p {
 }
 
 .android-compose-camp {
-    background: #d7effe url("../image/compose-camp-header.png") no-repeat bottom / cover;
+    background: #d7effe bottom / cover no-repeat url("../image/compose-camp-header.png");
     height:500px;
     padding-top: 90px;
 }
 
 footer {
-    background: #073042 url("../image/compose-camp-footer.png") no-repeat bottom / contain;
+    background: #073042 bottom / contain no-repeat url("../image/compose-camp-footer.png");
     height: 300px;
     padding-top: 5px;
     text-align: center;
