@@ -1,7 +1,7 @@
 body {
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 16px;
- }
+}
 
 nav {
     background-color:#073042;
@@ -20,7 +20,7 @@ nav a {
 }
 
 h1, h2 {
-   color: #073042; 
+    color: #073042; 
 }
 
 h1 {
