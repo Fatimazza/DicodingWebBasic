@@ -46,6 +46,11 @@ p {
     padding-top: 90px;
 }
 
+.anchor-top {
+    position: relative;
+    top: -80px;
+}
+
 .round-img {
     border-radius: 50%;
     border: 8px solid #4285f4;
