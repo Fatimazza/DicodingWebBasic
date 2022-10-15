@@ -23,6 +23,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: #3ddc84;
+}
+
 h1, h2 {
     color: #073042; 
 }
@@ -49,6 +53,26 @@ p {
 .anchor-top {
     position: relative;
     top: -80px;
+}
+
+.why-join {
+    background-color: #d7effe;
+    padding-top: 25px;
+}
+
+.why-join-container {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    justify-content: space-around;
+}
+
+.why-join-item {
+    flex-grow: 1;
+    max-width: 30%;
+    text-align: center;
+    background-color: #4285f4;
+    padding: 5px 5px 5px 5px;
 }
 
 .round-img {
