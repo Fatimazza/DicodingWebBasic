@@ -70,6 +70,10 @@ aside img {
     width: 80%;
 }
 
+article h2 {
+    text-align: center;
+}
+
 .center {
     text-align: center;
     padding: 0px 15px 0px 15px;
@@ -87,18 +91,21 @@ aside img {
 }
 
 .why-join {
-    background-color: #d7effe;
+    background-color: aliceblue;
     padding-top: 25px;
 }
 
 .why-join-container {
     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
     width: 100%;
     margin: 0 auto;
     justify-content: space-around;
 }
 
 .why-join-item {
+    flex-basis: 100%;
     flex-grow: 1;
     max-width: 32%;
     text-align: center;
@@ -112,6 +119,13 @@ aside img {
     display: block;
     margin: 0 auto;
     max-width: 100%;
+}
+
+.compose-camp-container {
+    padding: 45px 45px;
+    background-color: #d7effe ;
+    display: flex;
+    flex-direction: column;
 }
 
 footer {
