@@ -140,11 +140,11 @@ aside img {
 footer {
     background: #073042 bottom / contain no-repeat url("../image/compose-camp-footer.png");
     height: 300px;
-    padding: 5px 15px 15px 0px;
+    padding: 5px 15px 15px 0;
     text-align: center;
 }
 
 footer p {
-    color: #d7effe;
     background-color: #073042;
+    color: #d7effe;
 }
