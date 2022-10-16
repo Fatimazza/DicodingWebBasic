@@ -90,8 +90,9 @@ aside {
     flex-grow: 1;
     max-width: 30%;
     text-align: center;
-    background-color: #4285f4;
     padding: 5px 5px 5px 5px;
+    overflow: auto;
+    margin: 15px 0px 10px 0px;
 }
 
 .round-img {
@@ -99,7 +100,7 @@ aside {
     border: 8px solid #4285f4;
     display: block;
     margin: 0 auto;
-    max-width: 165px;
+    max-width: 100%;
 }
 
 footer {
