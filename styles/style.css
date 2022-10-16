@@ -58,6 +58,10 @@ aside {
     text-align: center;
 }
 
+aside img {
+    width: 80%;
+}
+
 .center {
     text-align: center;
     padding: 0px 15px 0px 15px;
