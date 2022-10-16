@@ -102,34 +102,34 @@ aside img {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 100%;
-    margin: 0 auto;
     justify-content: space-around;
+    margin: 0 auto;
+    width: 100%;
 }
 
 .why-join-item {
     flex-basis: 100%;
     flex-grow: 1;
+    margin: 15px 0 10px 0;
     max-width: 32%;
-    text-align: center;
     overflow: auto;
-    margin: 15px 0px 10px 0px;
+    text-align: center;
 }
 
 .round-img {
-    border-radius: 50%;
     border: 8px solid #4285f4;
+    border-radius: 50%;
     display: block;
     margin: 0 auto;
     max-width: 100%;
 }
 
 .compose-camp-container {
-    padding: 45px 45px;
+    align-content: center;
     background-color: #d7effe ;
     display: flex;
     flex-direction: column;
-    align-content: center;
+    padding: 45px 45px;
     text-align: center;
 }
 
