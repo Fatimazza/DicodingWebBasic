@@ -1,15 +1,11 @@
-/* for Desktop view */
-@media(max-width: 1400px) {
-    
-}
-
+/* for Desktop view max-width: 1400px */
 
 /* for Tablet view */
 @media(max-width: 950px) {
     #content,
     aside {
-      width: 100%;
-      padding: 0;
+        width: 100%;
+        padding: 0;
     }
 }
 
@@ -17,15 +13,15 @@
 @media(max-width: 640px) {
     #content,
     aside {
-      width: 100%;
-      padding: 0;
+        width: 100%;
+        padding: 0;
     }
     .android-compose-camp {
         height: 600px;
     }
     .why-join-container {
-        flex-direction: column;
         align-items: center;
+        flex-direction: column;
     }
     .why-join-item {
         min-width: 100%;
