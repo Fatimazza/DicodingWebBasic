@@ -38,17 +38,18 @@ nav a:hover {
     color: #3ddc84;
 }
 
-h1, h2 {
-    color: #073042; 
+h1 {
+    color: #073042;
+    font-size: 250%;
 }
 
-h1 {
-    font-size: 250%;
+h2 {
+    color: #073042; 
 }
 
 p {
     line-height: 1.8em;
-    padding: 0px 15px 0px 15px;
+    padding: 0 15px 0 15px;
 }
 
 main {
