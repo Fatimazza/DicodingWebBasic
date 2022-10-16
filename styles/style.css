@@ -60,6 +60,12 @@ main {
     width: 75%;
 }
 
+article img {
+    border-radius: 15px;
+    width: 100%;
+    max-width: 550px;
+}
+
 aside {
     float: right;
     width: 25%;
