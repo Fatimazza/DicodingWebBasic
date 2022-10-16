@@ -41,6 +41,7 @@ h1 {
 
 p {
     line-height: 1.8em;
+    padding: 0px 15px 0px 15px;
 }
 
 main {
@@ -92,9 +93,8 @@ aside img {
 
 .why-join-item {
     flex-grow: 1;
-    max-width: 30%;
+    max-width: 32%;
     text-align: center;
-    padding: 5px 5px 5px 5px;
     overflow: auto;
     margin: 15px 0px 10px 0px;
 }
@@ -110,7 +110,7 @@ aside img {
 footer {
     background: #073042 bottom / contain no-repeat url("../image/compose-camp-footer.png");
     height: 300px;
-    padding-top: 5px;
+    padding: 5px 15px 15px 0px;
     text-align: center;
 }
 
