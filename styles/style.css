@@ -47,6 +47,10 @@ h2 {
     color: #073042; 
 }
 
+h3 {
+    margin-top: 25px;
+}
+
 p {
     line-height: 1.8em;
     padding: 0 15px 0 15px;
