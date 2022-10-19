@@ -6,6 +6,7 @@
     aside {
         background-color: aliceblue;
         padding-bottom: 45px;
+        padding-top: 0;
         width: 100%;
     }
 }
@@ -16,6 +17,7 @@
     aside {
         background-color: aliceblue;
         padding-bottom: 45px;
+        padding-top: 0;
         width: 100%;
     }
     .android-compose-camp {
