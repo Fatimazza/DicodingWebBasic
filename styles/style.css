@@ -102,6 +102,18 @@ aside img {
     padding-top: 70px;
 }
 
+.button-rounded {
+    background: #3ddc84;
+    color: #fff;
+    display: block;
+    padding: 20px 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 350px;
+    border-radius: 35px;
+    margin: 0 auto;
+}
+
 .anchor-top {
     position: relative;
     top: -60px;
