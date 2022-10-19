@@ -4,8 +4,9 @@
 @media(max-width: 950px) {
     #content,
     aside {
+        background-color: aliceblue;
+        padding-bottom: 45px;
         width: 100%;
-        padding: 0;
     }
 }
 
@@ -13,8 +14,9 @@
 @media(max-width: 640px) {
     #content,
     aside {
+        background-color: aliceblue;
+        padding-bottom: 45px;
         width: 100%;
-        padding: 0;
     }
     .android-compose-camp {
         height: 600px;
