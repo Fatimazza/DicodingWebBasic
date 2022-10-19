@@ -83,6 +83,11 @@ aside {
 }
 
 aside img {
+    border: 8px solid #4285f4;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
     width: 80%;
 }
 
