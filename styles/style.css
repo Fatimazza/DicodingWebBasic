@@ -76,6 +76,7 @@ article img {
 aside {
     background-color: #d7effe;
     float: right;
+    padding-top: 25px;
     padding-bottom: 350px;
     text-align: center;
     width: 25%;
